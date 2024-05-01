@@ -14,11 +14,9 @@ This GitHub contains all relevant files used for our ECE 1000 robot arm project.
 
 ## Links to resources used for project:
 
-* Inspiration: https://www.youtube.com/watch?v=SJr-HoCwlWg
+* Guide on Joystick: https://www.youtube.com/watch?v=SJr-HoCwlWg
 
-* Claw: https://www.thingiverse.com/thing:4249843
-
-* Arm: https://www.thingiverse.com/thing:34829
+* Robot Arm: https://www.thingiverse.com/thing:34829
 
 * Python Code and wiring example: https://how2electronics.com/control-servo-with-joystick-raspberry-pi-pico/
 
